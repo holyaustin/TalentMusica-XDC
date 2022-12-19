@@ -1,4 +1,4 @@
-# Talent Musica 
+# Talent Musica (MIT License)
 
 ## Introduction
 Talent Musica seeks to create an on-chain music Dapp where young music talents can upload their creation and mint it to the talent marketplace as Video NFTs. If users like the music, such artists can be contacted on their Twitter handles. Producers and Managers who looks the work of any upcoming artiste / talent can contact the talent and sign a contract with him/ her.
