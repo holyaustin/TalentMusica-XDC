@@ -14,7 +14,7 @@ Blockain Deployed: XDC Apthem Testnet and XDC Mainnet
 
 
 ## Demo / Live Links
-Live Dapp - https://talent-musica.vercel.app/
+Live Dapp - https://talent-musica-xdc.vercel.app/
 
 Youtube Url: https://youtu.be/6X2J0Yo-p8A
 
